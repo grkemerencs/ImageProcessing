@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/clearvision.dir/main.cpp.o CMakeFiles/clearvision.dir/SecretImage.cpp.o CMakeFiles/clearvision.dir/GrayscaleImage.cpp.o CMakeFiles/clearvision.dir/Filter.cpp.o CMakeFiles/clearvision.dir/Crypto.cpp.o -o clearvision

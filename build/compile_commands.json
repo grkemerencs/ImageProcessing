@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/gorkem/VScodeProjects/assignment1/build",
+  "command": "/usr/bin/g++  -I/home/gorkem/VScodeProjects/assignment1 -g -std=gnu++11 -o CMakeFiles/clearvision.dir/main.cpp.o -c /home/gorkem/VScodeProjects/assignment1/main.cpp",
+  "file": "/home/gorkem/VScodeProjects/assignment1/main.cpp",
+  "output": "CMakeFiles/clearvision.dir/main.cpp.o"
+},
+{
+  "directory": "/home/gorkem/VScodeProjects/assignment1/build",
+  "command": "/usr/bin/g++  -I/home/gorkem/VScodeProjects/assignment1 -g -std=gnu++11 -o CMakeFiles/clearvision.dir/SecretImage.cpp.o -c /home/gorkem/VScodeProjects/assignment1/SecretImage.cpp",
+  "file": "/home/gorkem/VScodeProjects/assignment1/SecretImage.cpp",
+  "output": "CMakeFiles/clearvision.dir/SecretImage.cpp.o"
+},
+{
+  "directory": "/home/gorkem/VScodeProjects/assignment1/build",
+  "command": "/usr/bin/g++  -I/home/gorkem/VScodeProjects/assignment1 -g -std=gnu++11 -o CMakeFiles/clearvision.dir/GrayscaleImage.cpp.o -c /home/gorkem/VScodeProjects/assignment1/GrayscaleImage.cpp",
+  "file": "/home/gorkem/VScodeProjects/assignment1/GrayscaleImage.cpp",
+  "output": "CMakeFiles/clearvision.dir/GrayscaleImage.cpp.o"
+},
+{
+  "directory": "/home/gorkem/VScodeProjects/assignment1/build",
+  "command": "/usr/bin/g++  -I/home/gorkem/VScodeProjects/assignment1 -g -std=gnu++11 -o CMakeFiles/clearvision.dir/Filter.cpp.o -c /home/gorkem/VScodeProjects/assignment1/Filter.cpp",
+  "file": "/home/gorkem/VScodeProjects/assignment1/Filter.cpp",
+  "output": "CMakeFiles/clearvision.dir/Filter.cpp.o"
+},
+{
+  "directory": "/home/gorkem/VScodeProjects/assignment1/build",
+  "command": "/usr/bin/g++  -I/home/gorkem/VScodeProjects/assignment1 -g -std=gnu++11 -o CMakeFiles/clearvision.dir/Crypto.cpp.o -c /home/gorkem/VScodeProjects/assignment1/Crypto.cpp",
+  "file": "/home/gorkem/VScodeProjects/assignment1/Crypto.cpp",
+  "output": "CMakeFiles/clearvision.dir/Crypto.cpp.o"
+}
+]
